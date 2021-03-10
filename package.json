@@ -3,5 +3,8 @@
     "gatsby": "^3.0.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
   }
 }

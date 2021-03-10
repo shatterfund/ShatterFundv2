@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/foundation.js"],"names":["Foundation"],"mappings":"kJAEe,SAASA,IACtB,OAAO","file":"component---src-pages-foundation-js-6c159d13dfa18afccfc1.js","sourcesContent":["import React from \"react\";\n\nexport default function Foundation() {\n  return <h1>Hello Foundation!</h1>;\n}"],"sourceRoot":""}

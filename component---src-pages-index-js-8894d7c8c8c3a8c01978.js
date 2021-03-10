@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[678],{704:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return r}});var u=t(294),l=t(444);function r(){return u.createElement(u.Fragment,null,u.createElement(l.rU,{to:"/foundation"},"Foundation Link!"),u.createElement("h1",null,"Hello Gatsby!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8894d7c8c8c3a8c01978.js.map
